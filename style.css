@@ -9,7 +9,7 @@
 
 .nav_bar {
     background-color: black;
-    height: 5vh;
+    height: 4.1vh;
 }
 
 .searchBox {
@@ -24,7 +24,7 @@
 .sidebar {
     background-color: rgb(41, 41, 192);
     width: 20%;
-    height: 85.5vh;
+    height: 86.5vh;
 }
 
 li:hover {
@@ -46,4 +46,8 @@ li:hover {
 
 .bgc_dark_grey {
     background-color: rgb(35, 34, 34);
+}
+.event{
+    height: 300px; 
+    overflow-y: scroll;
 }
